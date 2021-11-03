@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e29f9bd.chunk.css",
-    "main.js": "/static/js/main.e117126c.chunk.js",
-    "main.js.map": "/static/js/main.e117126c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b9c318cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b9c318cc.js.map",
-    "static/js/2.d3c5f9a0.chunk.js": "/static/js/2.d3c5f9a0.chunk.js",
-    "static/js/2.d3c5f9a0.chunk.js.map": "/static/js/2.d3c5f9a0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5e29f9bd.chunk.css.map": "/static/css/main.5e29f9bd.chunk.css.map",
-    "static/js/2.d3c5f9a0.chunk.js.LICENSE.txt": "/static/js/2.d3c5f9a0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/img-8.fabdf94d.jpg",
-    "static/media/img-2.011a4105.jpg": "/static/media/img-2.011a4105.jpg",
-    "static/media/img-3.6d683c0e.jpg": "/static/media/img-3.6d683c0e.jpg",
-    "static/media/img-4.a31875b7.jpg": "/static/media/img-4.a31875b7.jpg",
-    "static/media/img-9.3709f2ff.jpg": "/static/media/img-9.3709f2ff.jpg",
-    "static/media/video-3.fdc27cda.mp4": "/static/media/video-3.fdc27cda.mp4"
+    "main.css": "/fincar-app/static/css/main.3803a741.chunk.css",
+    "main.js": "/fincar-app/static/js/main.e117126c.chunk.js",
+    "main.js.map": "/fincar-app/static/js/main.e117126c.chunk.js.map",
+    "runtime-main.js": "/fincar-app/static/js/runtime-main.41937087.js",
+    "runtime-main.js.map": "/fincar-app/static/js/runtime-main.41937087.js.map",
+    "static/js/2.f38666a8.chunk.js": "/fincar-app/static/js/2.f38666a8.chunk.js",
+    "static/js/2.f38666a8.chunk.js.map": "/fincar-app/static/js/2.f38666a8.chunk.js.map",
+    "index.html": "/fincar-app/index.html",
+    "static/css/main.3803a741.chunk.css.map": "/fincar-app/static/css/main.3803a741.chunk.css.map",
+    "static/js/2.f38666a8.chunk.js.LICENSE.txt": "/fincar-app/static/js/2.f38666a8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fincar-app/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-2.011a4105.jpg": "/fincar-app/static/media/img-2.011a4105.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/fincar-app/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/fincar-app/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.3709f2ff.jpg": "/fincar-app/static/media/img-9.3709f2ff.jpg",
+    "static/media/video-3.fdc27cda.mp4": "/fincar-app/static/media/video-3.fdc27cda.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9c318cc.js",
-    "static/js/2.d3c5f9a0.chunk.js",
-    "static/css/main.5e29f9bd.chunk.css",
+    "static/js/runtime-main.41937087.js",
+    "static/js/2.f38666a8.chunk.js",
+    "static/css/main.3803a741.chunk.css",
     "static/js/main.e117126c.chunk.js"
   ]
 }
