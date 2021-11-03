@@ -4,7 +4,7 @@ This project was created ti promote the tourism in Arauca.
 
 ## Use the project
 
-You can see a demo here: https://selem11.github.io/ \
+You can see a demo here: https://selem11.github.io/fincar-app \
 
 Or you can start the project using npm:
 
